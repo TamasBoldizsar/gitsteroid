@@ -2,6 +2,7 @@
 
 int main()
 {
+	cout << error << endl;
 	srand(time(nullptr));
 
 	Game game;
